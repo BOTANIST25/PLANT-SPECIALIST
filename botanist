@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KIRABO IWIN | BOTANIST@MUST</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #000;
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 70px 20px;
+      background: #111;
+    }
+    h1 { color: #7CFC00; }
+    nav { padding: 15px; }
+    nav a {
+      color: white;
+      margin: 12px;
+      text-decoration: none;
+    }
+    section { padding: 35px 20px; }
+    .contact { color: #7CFC00; }
+    footer {
+      padding: 20px;
+      background: #111;
+      color: #bbb;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>KIRABO IWIN</h1>
+    <h2>BOTANIST@MUST</h2>
+    <p>Exploring the beauty and science of plant life.</p>
+  </header>
+
+  <nav>
+    <a href="#about">About Us</a>
+    <a href="#contact">Contact Us</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Welcome to my website. I am Kirabo Iwin,
+    passionate about botany, plants, and the natural environment.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Phone: <a class="contact" href="tel:0766658413">0766658413</a></p>
+    <p>Email: <a class="contact" href="mailto:iwinkirabo@gmail.com">iwinkirabo@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 KIRABO IWIN | BOTANIST@MUST</p>
+  </footer>
+</body>
+</html>
